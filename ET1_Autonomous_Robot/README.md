@@ -122,3 +122,11 @@ before forward movement resumes.
 ## Project Image
 
 ![ET1 Robot](robot.jpg)
+
+## Project Demonstration
+
+### Forward Movement with Obstacle Detection
+
+The screenshot below shows the robot executing the `forward.py` program. The robot continuously measures the distance to nearby obstacles using the HC-SR04 ultrasonic sensor. Once an obstacle is detected within the configured threshold, the robot stops automatically and reports the encoder pulse counts.
+
+![Forward Movement Execution](images/execution/forward_movement_execution.png)
