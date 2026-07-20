@@ -15,3 +15,11 @@ memory access.
 ## Tools
 - SystemVerilog
 - Xilinx Vivado
+
+## Skills Demonstrated
+
+- RTL Design
+- Memory Architecture
+- RISC-V Processor Design
+- SystemVerilog
+- Functional Verification
