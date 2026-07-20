@@ -25,3 +25,11 @@ are implemented as independent SystemVerilog modules and integrated at the top l
 ## Tools Used
 - SystemVerilog
 - Xilinx Vivado (Simulation)
+
+## Skills Demonstrated
+
+- IEEE-754 Floating Point Arithmetic
+- RISC-V ISA Extension
+- FPGA Design
+- RTL Design
+- Digital Design Verification
