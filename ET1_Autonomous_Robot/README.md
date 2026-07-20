@@ -166,3 +166,9 @@ The web interface communicates with a Node.js server, which executes Python robo
 ![Robot Control Web Interface](images/robot_control_web_interface.png)
 
 
+## System Architecture
+
+The following diagram illustrates the complete architecture of the ET1 autonomous mobile robot, including the web interface, Node.js server, Python control scripts, Raspberry Pi GPIO interfaces, motor driver, sensors, and actuators.
+
+![Robot System Architecture](images/robot_system_architecture.png)
+
