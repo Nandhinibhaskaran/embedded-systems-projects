@@ -97,6 +97,14 @@ Encoder feedback is used to:
 - HC-SR04 Ultrasonic Sensor
 - Embedded Linux
 
+### Autonomous Obstacle Avoidance
+
+The robot continuously measures the distance to nearby objects using an
+HC-SR04 ultrasonic sensor. When an obstacle is detected within 20 cm, the
+motors stop and the robot selects a random left or right turn. Rotary
+encoder feedback is used to perform an approximately 90-degree rotation
+before forward movement resumes.
+
 ---
 
 ## Project Image
