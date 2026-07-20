@@ -64,6 +64,18 @@ Motors • Encoders • Ultrasonic Sensor
 
 ---
 
+## Software Architecture
+
+The robot is controlled through three software layers:
+
+• HTML frontend (Robot Controller webpage)
+
+• Node.js server (Socket.IO communication)
+
+• Python programs running on the Raspberry Pi for motor control, encoder feedback, ultrasonic sensing and autonomous navigation.
+
+**Note:** The original university report labels the Node.js server code as *Python*. This is a documentation error—the server is implemented in JavaScript using Node.js.
+
 ## Motion Control
 
 The robot continuously measures the distance to nearby obstacles using the HC-SR04 ultrasonic sensor.
