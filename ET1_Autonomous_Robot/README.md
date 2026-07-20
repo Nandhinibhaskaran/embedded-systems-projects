@@ -130,3 +130,19 @@ before forward movement resumes.
 The screenshot below shows the robot executing the `forward.py` program. The robot continuously measures the distance to nearby obstacles using the HC-SR04 ultrasonic sensor. Once an obstacle is detected within the configured threshold, the robot stops automatically and reports the encoder pulse counts.
 
 ![Forward Movement Execution](images/execution/forward_movement_execution.png)
+
+## Random Navigation
+
+The robot supports an autonomous random navigation mode through the web interface.
+
+When enabled:
+
+1. The robot moves forward while continuously measuring the distance using the HC-SR04 ultrasonic sensor.
+2. When an obstacle is detected, the robot stops.
+3. The robot reverses for a predefined distance using encoder feedback.
+4. A random left or right turn is selected.
+5. The cycle repeats until the feature is disabled.
+
+### Demonstration
+
+![Random Navigation](images/random_navigation_execution.png)
