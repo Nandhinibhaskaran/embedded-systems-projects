@@ -17,3 +17,11 @@ is detected.
 ## Tools Used
 - SystemVerilog
 - Xilinx Vivado (Simulation)
+
+## Skills Demonstrated
+
+- Computer Architecture
+- Memory Security
+- RowHammer Mitigation
+- RTL Design
+- Digital Design Verification
