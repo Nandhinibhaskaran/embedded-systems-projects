@@ -148,3 +148,21 @@ When enabled:
 ![Random Navigation](images/random_navigation_execution.png)
 
 
+## Web-Based Robot Controller
+
+A lightweight web interface was developed to remotely control the Raspberry Pi robot through Node.js and Socket.IO.
+
+### Available Commands
+
+- ✅ Move Forward
+- ✅ Move Backward & Turn
+- ✅ Random Movement
+- ✅ Live Status Messages
+
+The web interface communicates with a Node.js server, which executes Python robot-control scripts running on the Raspberry Pi.
+
+### Demonstration
+
+![Robot Control Web Interface](images/robot_control_web_interface.png)
+
+
