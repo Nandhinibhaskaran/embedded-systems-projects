@@ -36,3 +36,12 @@ This work demonstrates that modern open-source tools can be effectively used for
 
 **Development Environment**
 - Jupyter Notebook
+
+## Skills Demonstrated
+
+- Control Systems
+- Python Programming
+- Julia Programming
+- Scientific Computing
+- Numerical Simulation
+- Data Analysis
