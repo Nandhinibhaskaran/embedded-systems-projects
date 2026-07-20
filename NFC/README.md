@@ -33,4 +33,12 @@ Each tree is attached with an **RFID tag** that stores important lifecycle infor
    The system recommends planting a new tree after harvesting.
 
 ## Output
-The system writes tree lifecycle information such as planting date, expected cutting date, and next planting date to RFID memory blocks and reads the stored data for monitoring. :contentReference[oaicite:0]{index=0}
+The system writes tree lifecycle information such as planting date, expected cutting date, and next planting date to RFID memory blocks and reads the stored data for monitoring.
+
+## Skills Demonstrated
+
+- Embedded Systems
+- RFID and NFC Communication
+- Arduino Programming
+- Embedded C
+- Hardware Interfacing
