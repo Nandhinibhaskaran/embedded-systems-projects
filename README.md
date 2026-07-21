@@ -1,34 +1,131 @@
 # Embedded Systems Projects
 
-This repository contains selected projects developed during my Master's in Electrical Engineering and Embedded Systems at Hochschule Ravensburg-Weingarten.
+A collection of embedded systems, FPGA, IoT, and digital design projects completed during my Bachelor's and Master's studies in Electrical Engineering and Embedded Systems.
 
-## Projects
+---
 
-### RISC-V Floating Point Extension (RV64IF)
-- Extended an RV64I processor with IEEE-754 single-precision floating-point support.
-- Implemented floating-point addition, subtraction, multiplication and division.
-- Developed using SystemVerilog and Xilinx Vivado.
+## About
 
-### RowHammer TRR Mitigation
-- Designed a Target Row Refresh (TRR) protection mechanism.
-- Implemented row monitoring, threshold detection and automatic refresh.
-- Verified functionality using SystemVerilog testbenches.
+This repository showcases hands-on projects involving embedded software, FPGA development, digital system design, sensor interfacing, robotics, and hardware verification.
 
-### NFC Communication
-- Developed NFC communication using the PN532 module.
-- Implemented reading and writing of NFC tags.
+The projects demonstrate practical experience with:
 
-### RISC-V Debug Module
-- Implemented and tested debugging functionality for a RISC-V processor.
+- Embedded C/C++
+- Arduino
+- Raspberry Pi
+- FPGA Design
+- SystemVerilog
+- RISC-V Processor Design
+- Bluetooth Communication
+- Digital Electronics
+- IoT Systems
+- Sensor Interfacing
 
-## Technologies
+---
 
+# Projects
+
+## 🤖 ET1 Autonomous Robot
+
+Autonomous Raspberry Pi robot featuring obstacle avoidance, encoder-based motor control, PWM speed control and a web interface for remote operation.
+
+**Technologies**
+
+- Raspberry Pi
+- Python
+- HTML
+- JavaScript
+- Motor Drivers
+- Ultrasonic Sensor
+- Encoders
+
+---
+
+## ❤️ Smart Health Tracker
+
+Portable healthcare monitoring system capable of measuring heart rate, SpO₂ and estimating blood glucose values using optical sensing with Bluetooth connectivity to a mobile application.
+
+**Technologies**
+
+- Arduino Nano
+- MAX30100
+- HC-05 Bluetooth
+- MIT App Inventor
+- Embedded C
+
+---
+
+## ⚡ RISC-V Floating Point Processor (RV64IF)
+
+Implementation of IEEE-754 single precision floating-point instructions for a RISC-V processor using SystemVerilog.
+
+**Technologies**
+
+- SystemVerilog
+- Vivado
+- FPGA
+- RISC-V
+- IEEE-754
+
+---
+
+## 🛡️ RowHammer TRR Mitigation
+
+Hardware implementation of Target Row Refresh (TRR) protection against RowHammer attacks in DRAM.
+
+**Technologies**
+
+- SystemVerilog
+- FPGA
+- Digital Design
+- Hardware Security
+
+---
+
+## 📡 NFC Based Access System
+
+Embedded NFC authentication system using RFID communication for secure access applications.
+
+---
+
+## 🐞 RISC-V Debug Module
+
+Implementation of a hardware debug interface for RISC-V processors enabling debugging and verification.
+
+---
+
+## 📚 Evaluation of Embedded Libraries
+
+Comparative evaluation of embedded software libraries focusing on performance, resource usage, and implementation complexity.
+
+---
+
+# Skills Demonstrated
+
+- Embedded Software Development
 - Embedded C
 - C++
 - Python
 - SystemVerilog
-- FPGA
-- Xilinx Vivado
+- FPGA Design
+- Digital Logic Design
+- Arduino Development
 - Raspberry Pi
-- Arduino
-- Git
+- Bluetooth Communication
+- Sensor Integration
+- Hardware Verification
+- Hardware Debugging
+- PCB Prototyping
+- Signal Processing
+
+---
+
+# Author
+
+**Nandhini Baskaran**
+
+Master's Student
+
+Electrical Engineering & Embedded Systems
+
+RWU – Hochschule Ravensburg-Weingarten
