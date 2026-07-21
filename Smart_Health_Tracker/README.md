@@ -1,6 +1,7 @@
 # Smart Health Tracker
 
 An IoT-enabled embedded healthcare system developed to monitor multiple physiological parameters in real time. The system integrates biomedical sensors with an Arduino Nano microcontroller to estimate blood glucose non-invasively, measure heart rate and blood oxygen saturation (SpO₂), and transmit the collected data wirelessly to a mobile application via Bluetooth.
+![Smart Health Tracker](prototype.jpg)
 
 ---
 
@@ -59,7 +60,7 @@ The project combines multiple sensors with an Arduino Nano-based embedded platfo
 - UART Communication
 - IoT Prototyping
 - Mobile Application Development
-
+![System Flow](system_flowchart.png)
 ---
 
 ## System Architecture
@@ -182,6 +183,26 @@ Smart_Health_Tracker
 - Hardware Prototyping
 - Real-Time Data Processing
 
+
+## Mobile Application
+
+![Mobile App Output](mobile_app_output.png)
+
+---
+
+## Experimental Results
+
+### Blood Glucose Comparison
+
+![Glucose Results](glucose_results.png)
+
+### Heart Rate Comparison
+
+![Heart Rate Results](heart_rate_results.png)
+
+### SpO₂ Comparison
+
+![SpO₂ Results](spo2_results.png)
 ---
 
 ## Author
